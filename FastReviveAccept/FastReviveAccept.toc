@@ -2,7 +2,7 @@
 ## Title:|cffd6266cFastReviveAccept|r
 ## Notes: Automatically accepts resurrections and sends messages in chat.
 ## Author: BloodDragon2580
-## Version: 8.4
+## Version: 8.5
 ## SavedVariables: FRAPartyAutoRes, FRARaidAutoRes
 ## IconTexture: Interface\AddOns\FastReviveAccept\Media\Texture\logo
 
