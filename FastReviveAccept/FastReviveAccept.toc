@@ -1,8 +1,8 @@
-## Interface: 120100, 120007, 120005
+## Interface: 120100, 120007, 120005, 120105
 ## Title:|cffd6266cFastReviveAccept|r
 ## Notes: Automatically accepts resurrections and sends messages in chat.
 ## Author: BloodDragon2580
-## Version: 10.2
+## Version: 10.3
 ## SavedVariables: FRAPartyAutoRes, FRARaidAutoRes
 ## IconTexture: Interface\AddOns\FastReviveAccept\Media\Texture\logo
 
